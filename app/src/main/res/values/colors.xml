@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="grey">#767c85</color>
+    <!--buttons colors-->
+    <color name="leftTop">#e27115</color>
+    <color name="leftTopP">#99e27115</color>
+    <color name="leftTopS">#d45609</color>
+
+    <color name="rightTop">#299796</color>
+    <color name="rightTopP">#99299796</color>
+    <color name="rightTopS">#207c7d</color>
+
+    <color name="leftBottom">#f5344e</color>
+    <color name="leftBottomP">#99f5344e</color>
+    <color name="leftBottomS">#f32345</color>
+
+    <color name="rightBottom">#668cd8</color>
+    <color name="rightBottomP">#99668cd8</color>
+    <color name="rightBottomS">#5a75ba</color>
+
+    <!--[Nier] wave colors-->
+    <color name="colorCardStart">#25242b</color>
+    <color name="colorCardEnd">#bb25242b</color>
+    <color name="textTime">#212121</color>
+
+
+</resources>

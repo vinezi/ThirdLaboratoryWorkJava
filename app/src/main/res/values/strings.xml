@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Third Laboratory Work</string>
+    <string name="camera_main_lt">Camera</string>
+    <string name="video_main_rt">Video </string>
+    <string name="audio_main_lb">Audio </string>
+    <string name="text_main_rb">Text  </string>
+    <string name="title_main_big">Politov Victor</string>
+    <string name="title_main_s">Third Laboratory Work</string>
+    <string name="background_image_description">background</string>
+    <string name="camera_image_description">Camera image</string>
+    <string name="video_image_description">Video image</string>
+    <string name="audio_image_description">Audio image</string>
+    <string name="text_image_description">Text image</string>
+    <string name="zeroTime">0:00</string>
+    <string name="permission_denied_main">AUDIO ACCESS DENIED</string>
+    <string name="permission_garanted_main">PERMISSION GRANTED</string>
+    <string name="save_text_description">Save Text</string>
+    <string name="open_text_file_description">Open text file</string>
+    <string name="egg">Non est terminus</string>
+    <string name="edit_text_hint">Enter Your Text</string>
+    <string name="text_saved">Saved</string>
+</resources>
